@@ -23,21 +23,37 @@ Hello there, I'm Christian 👋
 </div>
 
 
-
-
 ### About Me
 
 - 🔭 I’m currently working on enhancing a system I developed last semester.
 - 🌱 I’m currently learning **Power BI**, improving my **Excel skills**, and exploring frameworks like **React** and **Next.js**.
 - 👯 I’m looking to collaborate on **innovative projects** and **open-source contributions**.
 - 💬 Ask me about **software development**, **web technologies**, and **data analysis**.
-- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- 📫 How to reach me: [Email](mailto:cmanrique0428@gmail.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm not funny 
+- ⚡ Fun fact: I'm not funny
+
+ 
 
 
 
 ### GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeChris28&show_icons=true&theme=transparent) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeChris28&layout=compact&theme=transparent)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeChris28&show_icons=true&theme=transparent)
+
+
+<div align="center">
+
+### Social Media
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeChris28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-manrique-zavala-bb9a53318/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmanrique0428@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/codechris28/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Cheese_Chris28)
+
+</div>
+
+
 
