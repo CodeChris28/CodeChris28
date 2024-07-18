@@ -1,8 +1,12 @@
-## Hello there, I'm Christian 👋
+<h1 align="center">
+Hello there, I'm Christian 👋
+</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/86e66050-f08c-4764-9d0f-b20d4caa03dc" alt="7he R4">
 </p>
+
+<div align="center">
 
 ### Languages and Tools
 
@@ -15,6 +19,10 @@
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  
+</div>
+
+
 
 
 ### About Me
@@ -31,4 +39,5 @@
 
 ### GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeChris28&show
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeChris28&show_icons=true&theme=transparent)
+
